@@ -5,8 +5,8 @@
  *      Author: jack
  */
 
-#ifndef INCLUDE_CONVERT_TO_JSON_H_
-#define INCLUDE_CONVERT_TO_JSON_H_
+#ifndef INCLUDE_JSON_CONVERT_TO_JSON_H_
+#define INCLUDE_JSON_CONVERT_TO_JSON_H_
 
 #include <boost/foreach.hpp>
 #include <string>
@@ -33,4 +33,4 @@ class ConvertToJson {
 
 }   //namespace myjson
 
-#endif /* INCLUDE_CONVERT_TO_JSON_H_ */
+#endif /* INCLUDE_JSON_CONVERT_TO_JSON_H_ */

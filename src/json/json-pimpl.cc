@@ -5,11 +5,11 @@
  *      Author: jack
  */
 
-#include "convert_to_json.h"
 #include "convert_to_json.cc"
 
 #include <string>
 #include <iostream>
+#include "../../include/json/convert_to_json.h"
 
 namespace myjson {
 
